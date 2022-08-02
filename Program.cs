@@ -6,7 +6,7 @@ namespace FactorNumber
     {
         static void Main(string[] args)
         {
-            UC5_FactorNumber.CheckUC5_factornumber();
+            UC5_FactorNumber.CheckUC5_FactorNumber();
         }
     }
 }

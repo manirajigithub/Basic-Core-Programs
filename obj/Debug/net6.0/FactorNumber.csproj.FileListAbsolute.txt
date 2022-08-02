@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\obj\Debug\net6.0\FactorNumber.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\obj\Debug\net6.0\FactorNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\obj\Debug\net6.0\FactorNumber.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\obj\Debug\net6.0\FactorNumber.AssemblyInfo.cs
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\obj\Debug\net6.0\FactorNumber.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\bin\Debug\net6.0\FactorNumber.exe
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\bin\Debug\net6.0\FactorNumber.deps.json
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\bin\Debug\net6.0\FactorNumber.runtimeconfig.json
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\bin\Debug\net6.0\FactorNumber.dll
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\bin\Debug\net6.0\FactorNumber.pdb
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\obj\Debug\net6.0\FactorNumber.dll
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\obj\Debug\net6.0\refint\FactorNumber.dll
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\obj\Debug\net6.0\FactorNumber.pdb
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\obj\Debug\net6.0\FactorNumber.genruntimeconfig.cache
+C:\Users\mani1\source\repos\FlipCoin\FactorNumber\obj\Debug\net6.0\ref\FactorNumber.dll
