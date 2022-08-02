@@ -8,19 +8,17 @@ namespace PowerOf2
     {
         public static void CheckUC3_PowerOf2()
         {
+            int n = 0;
 
-           
-            int i, n;
-            n = 50;
-            for (i = 1; i <= n; i++)
+              while( n<31)
             {
-                Console.Write("1/{0} + ", i);
-
-            }
-            if (n == 50)
-            {
-                Console.WriteLine("The nth Harmonic Number : 1/{0} ", n);
-            }
+                  double power = Math.Pow(2, n);
+                  Console.WriteLine(power);
+                  n++;
+              }
         }
     }
 }
+
+        
+
