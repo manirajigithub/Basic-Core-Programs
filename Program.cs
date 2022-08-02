@@ -6,7 +6,7 @@ namespace PowerOf2
     {
         static void Main(string[] args)
         {
-            UC3_PowerOf2.CheckUC3_Powerof2();
+            UC3_PowerOf2.CheckUC3_PowerOf2();
         }
     }
 }
