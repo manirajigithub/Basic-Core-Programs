@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.exe
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.deps.json
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.runtimeconfig.json
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.dll
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\bin\Debug\net6.0\SwapTwoNumbers.pdb
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.AssemblyInfo.cs
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.dll
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\obj\Debug\net6.0\refint\SwapTwoNumbers.dll
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.pdb
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\obj\Debug\net6.0\SwapTwoNumbers.genruntimeconfig.cache
+C:\Users\mani1\source\repos\FlipCoin\SwapTwoNumbers\obj\Debug\net6.0\ref\SwapTwoNumbers.dll
