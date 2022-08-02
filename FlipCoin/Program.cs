@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace FlipCoin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            UC1_FlipCoin.CheckUC1_flipcoin();
+        }
+    }
+}
+
