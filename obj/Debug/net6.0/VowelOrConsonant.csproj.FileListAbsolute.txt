@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\FlipCoin\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\FlipCoin\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\FlipCoin\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\FlipCoin\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.AssemblyInfo.cs
+C:\Users\mani1\source\repos\FlipCoin\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.csproj.CoreCompileInputs.cache
